@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/jupyterlab/jupyterlab-demo.svg?branch=master)](https://travis-ci.org/jupyterlab/jupyterlab-demo)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korhadris/jupyterlab-demo/korhadris)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/korhadris/jupyterlab-demo/korhadris?urlpath=lab)
 
 
 This repository contains some demonstrations of
